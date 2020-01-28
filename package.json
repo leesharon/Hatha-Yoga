@@ -1,0 +1,26 @@
+{
+  "name": "hatha-yoga",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lite": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leesharon/Hatha-Yoga.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/leesharon/Hatha-Yoga/issues"
+  },
+  "homepage": "https://github.com/leesharon/Hatha-Yoga#readme",
+  "devDependencies": {
+    "lite-server": "^2.5.4"
+  },
+  "dependencies": {
+    "font-awesome": "^4.7.0"
+  }
+}
